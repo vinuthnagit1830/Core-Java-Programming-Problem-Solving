@@ -11,7 +11,7 @@ A standalone Core Java console application for adding, viewing, searching, and d
 From the repository root:
 
 ```powershell
-Set-Location project1
+Set-Location project01
 javac -d out src\Main.java src\Student.java src\StudentManager.java
 java -cp out Main
 ```
